@@ -10,8 +10,10 @@
     <servlet-name>ServletLogin</servlet-name>
     <servlet-class>servlets.ServletLogin</servlet-class>
   </servlet>
-  <servlet-mapping>
-    <servlet-name>ServletLogin</servlet-name>
-    <url-pattern>/ServletLogin</url-pattern>
-  </servlet-mapping>
+  <!-- 
+  	 <servlet-mapping>
+    	<servlet-name>ServletLogin</servlet-name>
+    	<url-pattern>/ServletLogin</url-pattern>
+  	</servlet-mapping>
+   -->
 </web-app>
